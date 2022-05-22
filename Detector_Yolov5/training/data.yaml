@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../yolov5/test/images
+test: /home/pi/yolov5/test/images
+nc: 1
+names: ['hump']
